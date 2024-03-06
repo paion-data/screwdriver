@@ -212,3 +212,6 @@ Code licensed under the BSD 3-Clause license. See [LICENSE file](https://github.
 [nomad]: https://www.hashicorp.com/products/nomad
 [docker]: https://www.docker.com/products/docker
 [kubectl]: https://kubernetes.io/docs/user-guide/kubectl-overview/
+[![GitHub Workflow Status][GitHub Workflow Status]](https://github.com/paion-data/screwdriver/actions/workflows/ci-cd.yml)
+![Last Commit](https://img.shields.io/github/last-commit/paion-data/screwdriver/master?logo=github&style=for-the-badge)]]]
+[GitHub Workflow Status]: https://img.shields.io/github/actions/workflow/status/paion-data/screwdriver/ci-cd.yml?branch=master&logo=github&style=for-the-badge
