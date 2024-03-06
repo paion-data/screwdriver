@@ -2,7 +2,7 @@
 ---
 name: Screwdriver API CI/CD
 'on':
-    pull_request: null
+    pull_request: 
     push:
         branches:
             - master
@@ -20,3 +20,4 @@ jobs:
               run: npm install
             - name: Run unit tests
               run: npm test
+              
