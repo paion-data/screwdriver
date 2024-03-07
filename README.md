@@ -1,7 +1,7 @@
 # Screwdriver API
 
 [![GitHub Workflow Status][GitHub Workflow Status]](https://github.com/paion-data/screwdriver/actions/workflows/ci-cd.yml)
-![Last Commit](https://img.shields.io/github/last-commit/paion-data/screwdriver/master?logo=github&style=for-the-badge)]]]
+![Last Commit](https://img.shields.io/github/last-commit/paion-data/screwdriver/master?logo=github&style=for-the-badge)
 [![Version][npm-image]][npm-url] [![Pulls][docker-pulls]][docker-url] [![Stars][docker-stars]][docker-url] [![Build Status][status-image]][status-url] [![Open Issues][issues-image]][issues-url] [![Coverage][cov-image]][cov-url] [![Vulnerabilities][vul-image]][vul-url] ![License][license-image] [![Slack][slack-image]][slack-url] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4689/badge)](https://bestpractices.coreinfrastructure.org/projects/4689)
 
 > API for the Screwdriver CD service
