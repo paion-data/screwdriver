@@ -2,7 +2,7 @@
 ---
 name: Screwdriver API CI/CD
 
-'on':
+"on":
     pull_request:
     push:
         branches:
